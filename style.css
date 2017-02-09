@@ -1,0 +1,11 @@
+body {
+	background-color: #777
+}
+
+header, nav, footer {
+	text-align: center;
+	background-color: #ebebeb
+	text-color: #777;
+	width: 960px;
+	
+}
